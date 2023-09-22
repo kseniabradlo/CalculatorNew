@@ -6,6 +6,7 @@ let sign = "";
 let digitals = ["0", "1", "2", "3", "4", "5","6","7","8","9","."];
 let signs = ["-","+","*","/"];
 
+
 let input = document.querySelector("#inputDiv");
 let numsAndSigns = document.querySelector(".btnsNumOp");
 
